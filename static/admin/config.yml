@@ -1,5 +1,5 @@
 backend:
-  name: github+repo: thebrandconsultant/cabc-website
+  name: thebrandconsultant/cabc-website
 
 media_folder: static/assets
 public_folder: /assets
