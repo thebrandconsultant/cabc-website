@@ -1,5 +1,5 @@
 backend:
-  name: thebrandconsultant/cabc-website
+  name: test-repo
 
 media_folder: static/assets
 public_folder: /assets
@@ -14,7 +14,6 @@ collections:
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
-
   - name: "pages"
     label: "Pages"
     files:
@@ -55,4 +54,6 @@ collections:
           ]
           }
           ]
+      
           }
+  
